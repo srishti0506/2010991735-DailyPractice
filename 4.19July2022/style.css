@@ -1,0 +1,18 @@
+body{
+    background:linear-gradient(
+        to bottom,
+        rgb(204,229,255),
+        rgba(204,229,255,0.4)
+    );
+
+    font-size:1cm;
+    text-align:justify;
+    
+}
+#myTitle{
+
+    color:brown;
+}
+.h1Element{
+    color: blue;
+}
